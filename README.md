@@ -1,1 +1,2 @@
 # SterioCopy
+#lokaverkefni
